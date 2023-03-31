@@ -1,5 +1,5 @@
-# CircleLogo
-Creating circle logos using Midjourney
+# Circle Logo Examples
+Creating circle logos using Midjourney ~Ezagor
 
 * 1 
 
